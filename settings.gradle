@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ONE TO MANY RDB APP"
